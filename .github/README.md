@@ -1,4 +1,4 @@
-# `fortran.rs.ast`
+# `fortran.ast.rs`
 
 [![GitHub top language](https://img.shields.io/github/languages/top/xavier2p/fortran.rs?style=for-the-badge&logo=rust&color=orange)](https://rust-lang.org)
 [![GitHub Stars](https://img.shields.io/github/stars/xavier2p/fortran.rs?style=for-the-badge&logo=github&color=yellow)](https://github.com/xavier2p/fortran.rs/stargazers)
