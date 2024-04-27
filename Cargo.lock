@@ -130,7 +130,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "fortran-rs"
+name = "fortran-ast-rs"
 version = "0.1.0"
 dependencies = [
  "clap",

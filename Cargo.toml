@@ -1,12 +1,12 @@
 [package]
-name = "fortran-rs"
+name = "fortran-ast-rs"
 version = "0.1.0"
 edition = "2021"
-authors = ["Xavier2p <https://github.com/Xavier2p>"]
-description = "An open-source Fortran interpreter.\nWritten in Rust."
+authors = ["Jongsu Liam Kim <https://github.com/appleparan>"]
+description = "A parser for Fortran, written in Rust."
 license = "MIT"
 readme = ".github/README.md"
-repository = "https://github.com/Xavier2p/fortran.rs"
+repository = "https://github.com/appleparan/fortran.rs"
 homepage = "https://xavier2p.github.io/fortran.rs"
 documentation = "https://xavier2p.github.io/fortran.rs"
 
